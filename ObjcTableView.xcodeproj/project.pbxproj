@@ -65,8 +65,7 @@
 				A33CC7942A82470800FAE360 /* AppDelegate.m */,
 				A33CC7962A82470800FAE360 /* SceneDelegate.h */,
 				A33CC7972A82470800FAE360 /* SceneDelegate.m */,
-				A33CC7992A82470800FAE360 /* ViewController.h */,
-				A33CC79A2A82470800FAE360 /* ViewController.m */,
+				A33CC7AC2A82471600FAE360 /* ViewController */,
 				A33CC79C2A82470800FAE360 /* Main.storyboard */,
 				A33CC79F2A82470900FAE360 /* Assets.xcassets */,
 				A33CC7A12A82470900FAE360 /* LaunchScreen.storyboard */,
@@ -74,6 +73,15 @@
 				A33CC7A52A82470900FAE360 /* main.m */,
 			);
 			path = ObjcTableView;
+			sourceTree = "<group>";
+		};
+		A33CC7AC2A82471600FAE360 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A33CC7992A82470800FAE360 /* ViewController.h */,
+				A33CC79A2A82470800FAE360 /* ViewController.m */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
